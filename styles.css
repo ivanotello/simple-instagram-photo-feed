@@ -1,0 +1,59 @@
+body{
+    background-color: gainsboro;
+    margin: 0;
+}
+
+.navBar{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+
+}
+.navBar div {
+    width: 40%;
+
+}
+
+.feed{
+    width: 600px;
+    margin: auto;
+
+}
+div.post{
+    background-color: white;
+    margin-top: 35px;
+
+}
+div.header{
+    padding: 5px;
+
+}
+div.title{
+    display: inline-block;
+    width: 79%;
+            
+}
+.title h4{
+    margin: 5px;
+
+}
+.date{
+    display: inline-block;
+    width: 19%;
+    text-align: right;
+    color: gray
+
+}
+
+.image img{
+    width: 100%;
+
+}
+.info{
+    padding: 5px;
+
+}
+.info p{
+    margin: 0;
+
+}
